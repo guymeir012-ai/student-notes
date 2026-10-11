@@ -1,3 +1,3 @@
 # student-notes
 אפליקציית ניהול הערות לסטודנטים
-[תורמים](./contributors.md)
+רשימת התורמים לפרויקט: [תורמים](./contributors.md)
